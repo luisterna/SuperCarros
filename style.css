@@ -37,6 +37,7 @@ body {
 }
 
 .img1{
+    position: center;
     width: 400px;
     height: 450px;
 }
