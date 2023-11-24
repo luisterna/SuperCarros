@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+   
+}
+
+
+.texto{
+    color: red;
+   
+}
+
+.text{
+    height: 500px;
+    border-radius: 10%;
+    background-color: rgb(56, 58, 58);
+}
+
+#titulo{
+    text-align: center;
+    font-size: 30;
+}
+
+.topo {
+    position: relative;
+}
+
+.topo {
+    display: flex; 
+}
+
+.img, .text {
+    width: 49%;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.img1{
+    width: 400px;
+    height: 450px;
+    border-radius: 10%;
+}
